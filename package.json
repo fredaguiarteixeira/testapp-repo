@@ -27,7 +27,7 @@
     "morgan": "^1.9.0",
     "node-rsa": "^1.0.6",
     "passport": "0.4.x",
-    "passport-saml": "0.14.0",
+    "passport-saml": "1.3.3",
     "prop-types": "^15.7.2",
     "qs": "^6.9.0",
     "query-string": "^6.8.3",
